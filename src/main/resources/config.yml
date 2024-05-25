@@ -1,0 +1,41 @@
+random-names:
+  - skywalker87
+  - bubbletea22
+  - neon_knight
+  - sugarplum99
+  - thunderhawk
+  - mystic_wolf
+  - pixelpanda
+  - luna_star
+  - dragonfire
+  - jazzyjeff23
+  - sparklesun
+
+
+default-rank: "default"
+ranks:
+  vip+:
+    - vip+
+    - vip
+    - default
+  vip:
+    - vip
+    - default
+
+messages:
+  no-permissions: "&cYou do not have permissions for this."
+  player-not-found: "&cPlayer not found!"
+  rank-not-found: "&cRank was not found!"
+  disguise: "&aYou have been disguised to %player%."
+  disguise-other: "&aYou disguised %target% to %player%."
+  skin: "&aYou have been skinned to %player%."
+  skin-other: "&aYou skinned %target% to %player%."
+  rank: "&aYou have been ranked to %rank%."
+  rank-other: "&aYou ranked %target% to %rank%."
+  unnick: "&aYou unnicked yourself."
+  unnick-other: "&aYou unnicked %target%."
+  unskin: "&aYou unskinned yourself."
+  unskin-other: "&aYou unskinned %target%."
+  unrank: "&aYou unranked yourself."
+  unrank-other: "&aYou unranked %target%."
+  reveal: "&a%player% is actually %name%."

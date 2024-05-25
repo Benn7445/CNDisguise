@@ -1,0 +1,12 @@
+name: CNDisguise
+version: '1.0-SNAPSHOT'
+main: me.quartz.cndisguise.CNDisguise
+api-version: '1.20'
+depend: [DisguiseAPI]
+commands:
+  nick:
+  skin:
+  unnick:
+  unskin:
+  reveal:
+  rank:
